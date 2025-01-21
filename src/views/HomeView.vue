@@ -7,3 +7,6 @@ import AdminPanel from '../components/AdminPanel.vue'
     <AdminPanel />
   </main>
 </template>
+
+<style scoped>
+</style>
