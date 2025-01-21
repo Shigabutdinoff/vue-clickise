@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import AdminPanel from '../components/AdminPanel.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <AdminPanel />
   </main>
 </template>
